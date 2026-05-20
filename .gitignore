@@ -1,0 +1,9 @@
+# Environments
+venv/
+
+# Compiled files
+__pycache__/
+*.pyc
+
+# Raw data (optional, but good practice if files are large)
+data/
